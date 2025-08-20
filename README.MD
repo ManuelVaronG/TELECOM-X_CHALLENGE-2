@@ -69,7 +69,8 @@ Se evaluaron distintos modelos de clasificación, destacando el uso de **Random 
 ## 📌 Tecnologías Utilizadas
 
 - Python (pandas, numpy, matplotlib, seaborn)
-- Scikit-learn (preprocesamiento, Random Forest, métricas)
+- Scikit-learn (preprocesamiento, Random Forest, KNN, Treedecision, métricas)
 - Jupyter Notebook
 
 ---
+
